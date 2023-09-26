@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **My pet project**
 - 👨‍💻 In my free time, I solve tasks on LeetCode, CodeForces, CodeWars
 
-<h3 align="left">My stat on CodeWars:</h3> 
+<h3 align="left">My stats on CodeWars:</h3> 
 
 [![codewars](https://www.codewars.com/users/olivo4ka/badges/small)](https://www.codewars.com/users/olivo4ka)
 
