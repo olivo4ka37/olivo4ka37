@@ -1,4 +1,6 @@
-![HiScreenshot](https://github.com/olivo4ka37/olivo4ka37/assets/46248025/8ae988da-d139-4dfa-80de-110f6064f28a)
+<div align="center">
+  ![HiScreenshot](https://github.com/olivo4ka37/olivo4ka37/assets/46248025/8ae988da-d139-4dfa-80de-110f6064f28a)
+</div>
 ## Hi there 👋
 
 <!--
