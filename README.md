@@ -15,7 +15,7 @@
 
 [![codewars](https://www.codewars.com/users/olivo4ka/badges/small)](https://www.codewars.com/users/olivo4ka)
 
-<h3 align="left">My links in CodeForces and LeetCode:</h3>
+<h3 align="left">My links in CodeForces and LeetCode: (Click the icons below)</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/true_romantic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="true_romantic" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/olivo4ka37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="olivo4ka37" height="30" width="40" /></a>
