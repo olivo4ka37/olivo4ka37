@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **My pet project**
 - 👨‍💻 In my free time, I solve tasks on LeetCode, CodeForces, CodeWars
 - :mailbox:How to reach me: 
-
+    kostylev.egor.1337@gmail.com
     https://vk.com/olivo4ka37
 
 
