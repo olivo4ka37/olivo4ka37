@@ -1,6 +1,6 @@
 ![header](https://github.com/olivo4ka37/olivo4ka37/assets/46248025/df3a06bf-fe09-4327-a1f7-d03517763868)
 
-<h3 align="center">Juniour backend developer</h3>
+<h3 align="center">Golang Backend Developer</h3>
 
 
 
