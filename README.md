@@ -2,17 +2,6 @@
 
 <h3 align="center">Golang Backend Developer</h3>
 
-
-
-- 🔭 I’m currently working on **My pet project**
-- 👨‍💻 In my free time, I solve tasks on LeetCode, CodeForces, CodeWars
-- :mailbox:How to reach me:
-
-  
-    <h5>kostylev.egor.1337@gmail.com</h5>
-    <h5>https://vk.com/olivo4ka37</h5>
-
-
 <h3 align="left">My stats on CodeWars:</h3> 
 
 [![codewars](https://www.codewars.com/users/olivo4ka/badges/small)](https://www.codewars.com/users/olivo4ka)
